@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "687169574847",
+    "firebase_url": "https://sscp-25bab.firebaseio.com",
+    "project_id": "sscp-25bab",
+    "storage_bucket": "sscp-25bab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687169574847:android:2e598097500e30a2",
+        "android_client_info": {
+          "package_name": "com.example.sushrut.sscp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687169574847-1qm0vokqtfo44302esjmbm48cpqm9452.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sushrut.sscp",
+            "certificate_hash": "236f5ea363136f7af79310a391114c335b9ec0d7"
+          }
+        },
+        {
+          "client_id": "687169574847-7r9arq16ke4ipr46a7gruqcf44olldst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiXgqv2ACvJeN2zOUDC-FfJLrc_nnv4Yo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687169574847-7r9arq16ke4ipr46a7gruqcf44olldst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
